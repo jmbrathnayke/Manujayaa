@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manujayaa" alt="manujayaa" /></a> </p>
 
-- 🌱 I’m currently learning **Mern-stack||flutter||Java**
+- 🌱 I’m currently learning **Mern-stack || flutter || Java**
 
-- 💬 Ask me about **frontend developement**
+- 💬 Ask me about **software developement**
 
 - 📫 How to reach me **janithrathnayake01@gmail.com**
 
