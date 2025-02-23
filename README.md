@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manujaya</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3 align="center">I'm passionate Software Development from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manujayaa&label=Profile%20views&color=0e75b6&style=flat" alt="manujayaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manujayaa" alt="manujayaa" /></a> </p>
 
-- 🌱 I’m currently learning **Mern-stack & flutter**
+- 🌱 I’m currently learning **Mern-stack||flutter||Java**
 
 - 💬 Ask me about **frontend developement**
 
